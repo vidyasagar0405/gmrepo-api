@@ -1,8 +1,5 @@
 # gmrepo-api
 
-[![PyPI - Version](https://img.shields.io/pypi/v/gmrepo-api.svg)](https://pypi.org/project/gmrepo-api)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/gmrepo-api.svg)](https://pypi.org/project/gmrepo-api)
-
 -----
 
 ## Table of Contents
@@ -13,7 +10,7 @@
 ## Installation
 
 ```console
-pip install gmrepo-api
+pip install git+https://github.com/vidyasagar0405/gmrepo-api.git#egg=gmrepo-api
 ```
 
 ## License
